@@ -127,4 +127,8 @@
     top: 0;
     right: auto;
 }
+
+   .card {
+    width: 45% !important;
+}
 }
