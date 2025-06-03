@@ -43,6 +43,7 @@
     .buttons a {
       display: inline-block;
       margin-right: 10px;
+       margin-bottom:5px;
       padding: 8px 15px;
       border: none;
       border-radius: 5px;
